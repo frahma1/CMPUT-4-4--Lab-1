@@ -1,0 +1,23 @@
+Faiza Rahman		1674223		Lab 1
+
+Question 1
+https://github.com/frahma1
+
+Question 2
+2.31.0
+
+Question 3
+2.31.0
+
+Question 4
+There is not difference 
+
+Question 5
+301, but we have to visit http://www.google.com/ to get 200
+
+Question 6
+418 is returned by both -i and -il. When using just curl we only see th html of the page.
+
+Question 7
+
+Question 8
